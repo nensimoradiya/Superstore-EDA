@@ -1,10 +1,10 @@
-Superstore dataset. The dataset was programmatically generated using Python and analyzed using Power BI to uncover key insights related to sales, profit, inventory, customer behavior, and supply chain efficiency.
-The analysis provides a comprehensive view of sales trends, category performance, regional contribution, payment behavior, and inventory status, helping stakeholders make data-driven decisions.
-
+Superstore Exploratry Data Analysis
 
 ![Superstore Dashborad_page-0001](https://github.com/user-attachments/assets/0ffc9cdc-99ff-4039-9559-d5d466983bfa)
 ![Superstore Dashborad 0002](https://github.com/user-attachments/assets/fa7b6c52-e8f8-4e30-a7ac-9a56a4f689f0)
 
+The dataset was programmatically generated using Python and analyzed using Power BI to uncover key insights related to sales, profit, inventory, customer behavior, and supply chain efficiency.
+The analysis provides a comprehensive view of sales trends, category performance, regional contribution, payment behavior, and inventory status, helping stakeholders make data-driven decisions.
 🔍 Key Objectives
 
     Analyze overall sales, profit, and quantity trends
